@@ -1,5 +1,7 @@
 ## Hi there :) 
+
 I'm Salam, a second-year computer science student focused on software development. 
+
 I aspire to become a cloud security analyst. 
 
 <!--
