@@ -1,8 +1,11 @@
 ## Hi there :) 
 
 I'm Salam, a second-year computer science student focused on cloud computing and cyber security.
+
 I enjoy learning, reading, and drawing. I'm passionate about coding and finance.
+
 I love gaining experience and knowledge in different areas and meeting new people. 
+
 Open to new opportunities and connections. 
 
 <!--
