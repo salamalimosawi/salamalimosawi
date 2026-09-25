@@ -1,6 +1,6 @@
 ## Hi there :) 
 
-I'm Salam, a second-year computer science student focused on cloud computing and cyber security.
+I'm Salam, a third-year computer science student focused on cloud computing and cyber security.
 
 I enjoy learning, reading, and drawing. I'm passionate about coding and finance.
 
